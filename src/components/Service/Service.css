@@ -1,0 +1,16 @@
+.single-service-container{
+    border:2px solid darkgray;
+    border-radius:5px;
+    box-shadow:2px 2px 2px gray
+}
+
+.single-service-container img, button{
+    width:100%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.body-service{
+    text-align:center;
+    padding:10px;
+    margin:10px
+}

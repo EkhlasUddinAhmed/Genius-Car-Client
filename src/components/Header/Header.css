@@ -1,0 +1,8 @@
+.menu a{
+    text-decoration:none;
+    font-size: 30px;
+    padding: 10px;
+    margin:10px;
+    color:darkblue;
+    font-weight:600
+}

@@ -1,0 +1,5 @@
+.register-form input:not([type=checkbox]){
+    height:50px;
+    font-size:24px;
+    
+}
